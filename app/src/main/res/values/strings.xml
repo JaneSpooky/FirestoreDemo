@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FirestoreDemo</string>
+
+    <string name="complete">完了にする</string>
+    <string name="input_task_dialog_title">タスクを入力してください</string>
+
+    <string name="todo_task">未達タスク</string>
+    <string name="compete_task">完了タスク</string>
+</resources>
